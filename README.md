@@ -27,9 +27,9 @@ Christina sends Tiara a webmention badge as a reply to her checkin noting here c
 Tiara adds the badge to her conference page. The badge image links back to the post Christina sent awarding the badge.
 
 # Team
-@jgmac1106
-@iamjessklein
-@Downes
-add your name here.
+* @jgmac1106
+* @iamjessklein
+* @Downes
+* add your name here.
 
 
