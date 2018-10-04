@@ -9,7 +9,7 @@ This repo is for the planning and development of a webmention badgeing platforms
 ## A ledger to record record of badges being issued
 ## Badge HTML File
 * [prototype text example](https://github.com/jgmac1106/webmention-badges/blob/master/examplebadge.html)
-* [prototype img only exampl](https://github.com/jgmac1106/webmention-badges/blob/master/imageonlybadge.html)
+* [prototype img only example](https://github.com/jgmac1106/webmention-badges/blob/master/imageonlybadge.html)
 ## Learning Activities set up to recieve webmentions
 [prototype example](https://github.com/jgmac1106/webmention-badges/blob/master/learningactivityexample.html)
 
