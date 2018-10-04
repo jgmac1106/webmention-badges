@@ -7,6 +7,7 @@ This repo is for the planning and development of a webmention badgeing platforms
 ## Form to Generate multiple html badge files , given a list of users
 ## A ledger to record record of badges being issued
 ## Badge HTML File
+[https://github.com/jgmac1106/webmention-badges/blob/master/examplebadge.html](prototype text example)
 ## Learning Activities set up to recieve webmentions
 
 # Workflow
