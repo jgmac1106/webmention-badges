@@ -5,6 +5,7 @@ This repo is for the planning and development of a webmention badgeing platforms
 # Needs Assessment
 ## A badge designing platform
 * [example from Atul and Jess](https://github.com/jgmac1106/badgemaker-prototype)
+* [fork of Concentric Sky Issuer]
 ## Form to Generate multiple html badge files , given a list of users
 ## A ledger to record record of badges being issued
 ## Badge HTML File
