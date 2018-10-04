@@ -21,14 +21,16 @@ This repo is for the planning and development of a webmention badgeing platforms
 * The webmention badge is then saved in the ledger as both applies and recieved.
 
 ### Attendance Badge-Christina is hosting a conference. She posts an h-event where people can both rsvp and check into a venue.
+
 * Tiara then posts a checkin that she is at the conference venue with a link back to the venue.
 * Christina sends Tiara a webmention badge as a reply to her checkin noting here conference attendance.
 * Tiara adds the badge to her conference page. The badge image links back to the post Christina sent awarding the badge.
 
 ### Open Source Buidling Blocks Badge
+
 * Ahmed has a great open source library. He adds the ability to recieve webmentions to the project homepage,
 * Ahmed makes a sample h-entry post people can publish with a logo for his tools.
-* Esteban uses the tool and publishes a thank you using the img src on the reply post with the forrect microformats in the link back to the reply.
+* Esteban uses the tool and publishes a thank you post using the template Ahmed provided. Esteban then used the img src from the reply post on a page listing his building blocks.
 
 # Team
 * @jgmac1106
