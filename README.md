@@ -7,10 +7,10 @@ This repo is for the planning and development of a webmention badgeing platforms
 ## Form to Generate multiple html badge files , given a list of users
 ## A ledger to record record of badges being issued
 ## Badge HTML File
-(prototype text example)[https://github.com/jgmac1106/webmention-badges/blob/master/examplebadge.html]
-(prototype img only example)[https://github.com/jgmac1106/webmention-badges/blob/master/imageonlybadge.html]
+[prototype text example](https://github.com/jgmac1106/webmention-badges/blob/master/examplebadge.html)
+[prototype img only exampl](https://github.com/jgmac1106/webmention-badges/blob/master/imageonlybadge.html)
 ## Learning Activities set up to recieve webmentions
-(prototype example)[https://github.com/jgmac1106/webmention-badges/blob/master/learningactivityexample.html]
+[prototype example](https://github.com/jgmac1106/webmention-badges/blob/master/learningactivityexample.html)
 
 # Workflow
 * Learning Badge- Demitri is teaxching a class. Demitri makes an activity and includes HTML on th epage allowing webmentions to be recieved by the third party ledger.
