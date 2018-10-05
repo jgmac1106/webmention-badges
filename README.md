@@ -7,7 +7,7 @@ This repo is for the planning and development of a webmention badgeing platforms
 * [example from Atul and Jess](https://github.com/jgmac1106/badgemaker-prototype)
 * [fork of Concentric Sky Issuer]
 ## Form to Generate multiple html badge files , given a list of users
-* [webmention libraries] (https://indieweb.org/Webmention-developer#Libraries)
+* [webmention libraries](https://indieweb.org/Webmention-developer#Libraries)
 ## A ledger to record record of badges being issued
 ## Badge HTML File
 * [prototype text example](https://github.com/jgmac1106/webmention-badges/blob/master/examplebadge.html)
